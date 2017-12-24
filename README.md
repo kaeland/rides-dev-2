@@ -60,15 +60,13 @@ Before submitting this app to the IOS App Store (and hopefully to the Google Pla
 
 1. Using [Lottie](https://airbnb.design/lottie) as an App Welcome Screen:
 
-   Having a really cool yet Welcoming Animation as an intro to Rides would be dope! If anyone out there is good with this kind of thing, please feel free to holla at me via the email below: 
+   Having a really cool, yet, welcoming animation as an intro to Rides would be dope! If anyone out there is good with this kind of thing, please feel free to holla at me via the email below: 
 
    For those curious minds out there:
 
    "Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time, allowing apps to use animations as easily as they use static images." - airbnb.design/lottie
 
    Expo.io has a way of implementing After Effects animations into React Native apps [using Lottie](https://docs.expo.io/versions/latest/sdk/lottie.html) too!
-
-   P.S. - Lowkey wanting to ask the folks at [The Bible Project](https://thebibleproject.com) for assistance :P
 
 ## Contact
 
